@@ -363,4 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # 学习资料
-参考资料/
+/referencelib
+referencelib
